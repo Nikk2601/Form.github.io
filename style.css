@@ -1,0 +1,54 @@
+*{
+    box-sizing: content-box;
+}
+.p1{
+    text-size-adjust: 1px;
+     color: gray;
+     text-align: center;
+ }
+h1{
+    color: #92083f;
+    text-align: center;
+    font-family: cursive;
+    text-decoration: hotpink;
+    font-style: italic;
+    font-display: auto;
+    font-feature-settings: "zero";
+}
+ body{
+    color: #000001;
+    text-align: center;
+    font-family: cursive;
+    background-color: blanchedalmond;
+ }
+
+ 
+
+ select, input {
+     color: #001155;
+     font-family: cursive;
+ }
+ nav{
+     align-items: center;
+     background-color: rgb(117, 146, 226);
+      /* width: 90%; 
+      nav-left: 60px; */
+  /* padding: 10px; */
+  border: 5px solid gray;
+  /* margin: {100,10};
+  text-align: center; */ 
+ }
+ .button{
+    background-color: #c23055; /* Green */
+    border-radius: 12px;
+    font-family: cursive;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: lightcoral;
+    display: inline-block;
+    font-size:15px;
+}
+ form{
+     border: 3px solid rgb(98, 9, 199);
+ }
